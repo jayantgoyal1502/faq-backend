@@ -191,9 +191,4 @@ docker-compose up --build
 
 ---
 
-## 📞 Contact
-For any queries, feel free to reach out at [your email or GitHub profile link].
-
----
-
 ✅ **Now you're ready to use the FAQ Backend API! 🚀**
